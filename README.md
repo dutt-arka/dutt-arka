@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arka Dutta</h1>
 <h3 align="center">I drink coffee and I pretend to know things. Anti-fragile,inter alia.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dutt-arka" alt="dutt-arka" /></a> </p>
+<p>
 
 - 🌱 I’m currently learning **Machine Learning,Analytics and Data Science**
 
