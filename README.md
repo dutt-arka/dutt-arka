@@ -3,15 +3,15 @@
 
 <p>
 
-- 🌱 I’m currently learning **Machine Learning,Analytics and Data Science**
+- 🌱 I’m currently learning **DevOps,CI/CD,Cloud Technologies and Product Management**
 
 - 👨‍💻 All of my projects are available at [https://dutt-arka.github.io/](https://dutt-arka.github.io/)
 
-- 💬 Ask me about **Analytics and Product!**
+- 💬 Ask me about **Cloud and Product!**
 
 - 📫 How to reach me **twitter.com/dutt_arka**
 
-- ⚡ Interests **Finance,Risk Management and Flaneuring**
+- ⚡ Interests **Product,Risk Management and Flaneuring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
